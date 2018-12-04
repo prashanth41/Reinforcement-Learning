@@ -73,7 +73,7 @@
 
 
 * Q-Learning
-	-Q-learning is a reinforcement Learning algorithm that does not need a model of its environment. Therefore, it is very suited for repeated games against an unknown opponent. 
+	- Q-learning is a reinforcement Learning algorithm that does not need a model of its environment. Therefore, it is very suited for repeated games against an unknown opponent. 
 	- Q-learning algorithms works by estimating the values of state-action pairs.The value Q(s,a) is defined to be the expected discounted sum of future payoffs obtained by taking action a from state s and following an optimal policy thereafter.Once these values have been learned, the optimal action from any state is the one with the highest Q-value. 
 	- It does not require a model of the environment and can handle problems with stochastic transitions and rewards, without requiring adaptations.
 
