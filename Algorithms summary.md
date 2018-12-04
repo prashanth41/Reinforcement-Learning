@@ -79,7 +79,7 @@
 
 
 * Policy
-	-A policy is a function which can either be deterministic or stochastic. It dictates what action to take given a particular state. The distribution π(a∣s) is used for a stochastic policy and a mapping function π:S→A is used for a deterministic policy, where S is the set of possible states and A is the set of possible actions.
+	- A policy is a function which can either be deterministic or stochastic. It dictates what action to take given a particular state. The distribution π(a∣s) is used for a stochastic policy and a mapping function π:S→A is used for a deterministic policy, where S is the set of possible states and A is the set of possible actions.
 
 
 * Iterative Deepening
